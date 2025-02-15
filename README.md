@@ -33,7 +33,7 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
 
 ## Find Your Dream Job in Dubai!
 
